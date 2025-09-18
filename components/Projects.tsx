@@ -28,7 +28,7 @@ const projectsData: Project[] = [
     title: "AI Story Generator",
     description:
       "A creative writing assistant powered by Gemini API to generate story prompts and short narratives based on user input.",
-    imageUrl: "https://picsum.photos/seed/project3/600/400",
+    imageUrl: "me.png",
     tags: ["React", "Gemini API", "Node.js", "Express"],
     liveUrl: "#",
     repoUrl: "#",
