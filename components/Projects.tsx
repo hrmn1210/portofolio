@@ -18,7 +18,7 @@ const projectsData: Project[] = [
     title: "Jungle Juice eCommerce",
     description:
       "A modern eCommerce platform for a fictional exotic juice brand. Features a full cart and checkout experience.",
-    imageUrl: "https://picsum.photos/seed/project2/600/400",
+    imageUrl: "me.png",
     tags: ["Next.js", "Tailwind CSS", "Stripe", "GraphQL"],
     liveUrl: "#",
     repoUrl: "#",
